@@ -5,8 +5,8 @@
 ## Connect with Us
 
 <ul>
-<li><a href="https://github.com/OWASP/owasp-mastg/discussions">width="14px"> GitHub Discussions</a></li>
-<li><a href="https://owasp.slack.com/archives/C1M6ZVC6S"> width="14px">  #project-mobile-app-security</a> (<a href="https://owasp.slack.com/join/shared_invite/zt-g398htpy-AZ40HOM1WUOZguJKbblqkw#//">Get Invitation</a>)</li>
+<li><a href="https://github.com/OWASP/owasp-mastg/discussions"> GitHub Discussions</a></li>
+<li><a href="https://owasp.slack.com/archives/C1M6ZVC6S"> #project-mobile-app-security</a> (<a href="https://owasp.slack.com/join/shared_invite/zt-g398htpy-AZ40HOM1WUOZguJKbblqkw#//">Get Invitation</a>)</li>
 <li><a href="https://twitter.com/OWASP_MAS"> @OWASP_MAS </a> (Official Account)</li>
 <li><a href="https://twitter.com/bsd_daemon"> @bsd_daemon </a> (Sven Schleier, Project Lead) <a href="https://twitter.com/grepharder">@grepharder </a> (Carlos Holguera, Project Lead)</li>
 </ul>
